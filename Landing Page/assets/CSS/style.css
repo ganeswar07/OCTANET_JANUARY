@@ -57,7 +57,7 @@ body {
   font-weight: 600;
   font-size: 1.4rem;
   padding-block: 0;
-  color: #000; /* Set your default text color */
+  color: #000;
   position: relative;
   transition: color 0.3s;
 }
@@ -75,22 +75,22 @@ body {
 }
 
 .navbar-nav .nav-link:hover {
-  color: #226131; /* Set your hover text color */
+  color: #226131;
 }
 
 .navbar-nav .nav-link:hover::before {
   visibility: visible;
   transform: scaleX(1);
-  background-color: #226131; /* Set your hover line color */
+  background-color: #226131; 
 }
 .navbar-nav .nav-item.active .nav-link {
-  color: #226131; /* Set your active text color */
+  color: #226131; 
 }
 
 .navbar-nav .nav-item.active .nav-link::before {
   visibility: visible;
   transform: scaleX(1);
-  background-color: #226131; /* Set your active line color */
+  background-color: #226131;
 }
 
 .nav-cart-counter {
@@ -118,10 +118,10 @@ body {
   object-fit: cover;
 }
 .hero-container h1 {
-  color: #343a40; /* Set the heading text color */
+  color: #343a40; 
 }
 .hero-container p {
-  color: #6c757d; /* Set the paragraph text color */
+  color: #6c757d;
 }
 
 footer {
