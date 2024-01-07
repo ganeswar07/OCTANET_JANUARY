@@ -2,11 +2,6 @@
 
 Welcome to the Octanet Web Development Internship! This project showcases a simple HTML document for an internship program.
 
-## Table of Contents
-- [Description](#description)
-- [Task Section](#task-section)
-
-
 ## Description
 
 The HTML document in this project serves as a starting point for the Octanet Web Development Internship. It includes a title, a heading, and a task section with a completed task.
